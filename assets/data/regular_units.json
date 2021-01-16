@@ -1,0 +1,338 @@
+{
+  "Uzunluk": [
+    {
+      "name": "Metre",
+      "conversion": 1.0,
+      "base_unit": true
+    },
+    {
+      "name": "Hektometre",
+      "conversion": 0.001
+
+    },
+    {
+      "name": "Dekametre",
+      "conversion": 0.01
+
+    },
+    {
+      "name": "Desimetre",
+      "conversion": 10.0
+
+    },
+    {
+      "name": "Nanometre",
+      "conversion": 1000000000.0
+
+    },
+    {
+      "name": "Mikrometre",
+      "conversion": 1000000.0
+
+    },
+
+    {
+      "name": "Milimetre",
+      "conversion": 1000.0
+    },
+    {
+      "name": "Santimetre",
+      "conversion": 100.0
+    },
+    {
+      "name": "Kilometre",
+      "conversion": 0.001
+    },
+    {
+      "name": "Inch",
+      "conversion": 39.3701
+    },
+    {
+      "name": "Foot",
+      "conversion": 3.28084
+    },
+    {
+      "name": "Yard",
+      "conversion": 1.09361
+    },
+    {
+      "name": "Mile",
+      "conversion": 0.000621371
+    }
+  ],
+  "Alan": [
+    {
+      "name": "Metrekare",
+      "conversion": 1.0,
+      "base_unit": true
+    },
+    {
+      "name": "Santimetrekare",
+      "conversion": 10000.00
+    },
+    {
+      "name": "Dekametrekare",
+      "conversion": 0.01
+    },
+    {
+      "name": "Hektometrekare",
+      "conversion": 0.0001
+    },
+    {
+      "name": "Kilometrekare",
+      "conversion": 0.000001
+    },
+    {
+      "name": "inch kare",
+      "conversion": 1550.0
+    },
+
+    {
+      "name": "yard kare",
+      "conversion": 1.19599
+    },
+    {
+      "name": "Acre",
+      "conversion": 0.000247105
+    },
+    {
+      "name": "Hektar",
+      "conversion": 0.0001
+    }
+  ],
+  "Sürat": [
+    {
+      "name": "m/s",
+      "conversion": 1.0,
+      "base_unit": true
+    },
+    {
+      "name": "ft/s",
+      "conversion": 3.28084
+    },
+    {
+      "name": "km/s",
+      "conversion": 0.001
+    },
+    {
+      "name": "m/min",
+      "conversion": 60
+    },
+    {
+      "name": "ft/min",
+      "conversion": 196.850394
+    },
+    {
+      "name": "km/min",
+      "conversion": 0.06
+    },
+    {
+      "name": "km/h",
+      "conversion": 3.6
+    },
+    {
+      "name": "mi/h",
+      "conversion": 2.236936
+    },
+    {
+      "name": "knot",
+      "conversion": 1.943844
+    },
+    {
+      "name": "mach",
+      "conversion": 0.002941
+    },
+    {
+      "name": "beaufort",
+      "conversion": 1.0
+    },
+    {
+      "name": "min/km",
+      "conversion": 16.666667
+    }
+  ],
+  "Ağırlık": [
+    {
+      "name": "kg",
+      "conversion": 1.0,
+      "base_unit": true
+    },
+    {
+      "name": "mg",
+      "conversion": 1000000.00
+    },
+    {
+      "name": "g",
+      "conversion": 1000.00
+    },
+    {
+      "name": "lb (pound)",
+      "conversion": 2.20462
+    },
+    {
+      "name": "stone (UK)",
+      "conversion": 0.157473
+    },
+    {
+      "name": "ton (US)",
+      "conversion": 0.00110231
+    },
+    {
+      "name": "tonne",
+      "conversion": 0.001
+    },
+    {
+      "name": "oz",
+      "conversion": 35.273962
+    },
+    {
+      "name": "cwt",
+      "conversion": 0.019684
+    }
+  ],
+  "Zaman": [
+    {
+      "name": "gün",
+      "conversion": 1.0,
+      "base_unit": true
+    },
+    {
+      "name": "ms",
+      "conversion": 86400000.00
+    },
+    {
+      "name": "saniye",
+      "conversion": 86400.00
+    },
+    {
+      "name": "dakika",
+      "conversion": 1440
+    },
+    {
+      "name": "saat",
+      "conversion": 24.00
+    },
+    {
+      "name": "hafta",
+      "conversion": 0.142857
+    },
+    {
+      "name": "ay",
+      "conversion": 0.032877
+    },
+    {
+      "name": "yıl",
+      "conversion": 0.00274
+    }
+  ],
+  "Veri": [
+    {
+      "name": "Megabyte",
+      "conversion": 1.0,
+      "base_unit": true
+    },
+    {
+      "name": "Megabit",
+      "conversion": 8.0
+    },
+    {
+      "name": "Mebibyte",
+      "conversion": 0.953674
+    },
+    {
+      "name": "Byte",
+      "conversion": 1000000.0
+    },
+    {
+      "name": "Kilobyte",
+      "conversion": 1000.0
+    },
+    {
+      "name": "Gigabyte",
+      "conversion": 0.001
+    },
+    {
+      "name": "Terabyte",
+      "conversion": 0.000001
+    },
+    {
+      "name": "Petabyte",
+      "conversion": 0.000000001
+    }
+  ],
+  "İş": [
+    {
+      "name": "J",
+      "conversion": 1.0,
+      "base_unit": true
+    },
+    {
+      "name": "kJ",
+      "conversion": 0.001
+    },
+    {
+      "name": "cal",
+      "conversion": 0.239006
+    },
+    {
+      "name": "kcal",
+      "conversion": 0.000239006
+    },
+    {
+      "name": "kgf.m",
+      "conversion": 0.101972
+    },
+    {
+      "name": "BTU",
+      "conversion": 0.000948
+    },
+    {
+      "name": "in.lbf",
+      "conversion": 8.850746
+    }
+  ],
+  "Basınç": [
+    {
+      "name": "atm",
+      "conversion": 1.0,
+      "base_unit": true
+    },
+    {
+      "name": "Pa",
+      "conversion": 101325.00
+    },
+    {
+      "name": "hPa(mbar)",
+      "conversion": 1013.25
+    },
+    {
+      "name": "kPa",
+      "conversion": 101.325
+    },
+    {
+      "name": "MPa",
+      "conversion": 0.101325
+    },
+    {
+      "name": "bar",
+      "conversion": 1.01325
+    },
+    {
+      "name": "ksi",
+      "conversion": 0.014696
+    },
+    {
+      "name": "cmHg",
+      "conversion": 76.00
+    },
+    {
+      "name": "mmHg(Torr)",
+      "conversion": 760.00
+    },
+    {
+      "name": "inchHg",
+      "conversion": 29.92126
+    }
+  ]
+
+}
